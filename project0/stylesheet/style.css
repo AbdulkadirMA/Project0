@@ -27,6 +27,7 @@ ul{
 header{
     display: flex;
     justify-content: space-between;
+    margin-top: -45px;
 }
 .menu {
     width: 25px;

@@ -1,0 +1,27 @@
+$color:#00c2ff;
+
+
+
+/*nasted*/ 
+section{
+    h2{
+       color: $color; 
+    }
+}
+/*inheritant*/
+
+.sub{
+  color: #00c2ff;
+  font-size: 5em;
+
+
+}
+.subhead{
+    @extend .sub;
+    
+    
+}
+
+
+
+

@@ -1,0 +1,8 @@
+/*nasted*/
+section h2 {
+  color: #00c2ff; }
+
+/*inheritant*/
+.sub, .subhead {
+  color: #00c2ff;
+  font-size: 5em; }

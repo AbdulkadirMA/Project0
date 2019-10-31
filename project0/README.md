@@ -9,3 +9,6 @@ the gray container that is testimonial of two clint says after that another cont
 
 about page: i use bootstrap component grid that i divided into two column about text and image.
 
+Service page:first image and describtion is hero image or slider . 
+
+contact us :contact form that get info from user , email , name and address then submit button.
